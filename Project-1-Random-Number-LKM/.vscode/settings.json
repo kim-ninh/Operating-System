@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "random.h": "c",
+        "init.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
